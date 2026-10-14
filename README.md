@@ -1,8 +1,6 @@
 # fraud-analytics-portfolio
 Learning the practical way
 
-]# Fraud Analytics Portfolio
-
 Practical projects in fraud analysis and prevention using **SQL** and **Python**, based on public transactional datasets. Developed to practice the tools and analytical thinking used by Fraud Prevention teams.
 
 ## Contenido
